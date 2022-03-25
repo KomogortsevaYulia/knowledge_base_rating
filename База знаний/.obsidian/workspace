@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "b85b8876be4076f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a372ba733d5c8941",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Диаграммы.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdc978cc8ffd81af",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0aa989e353a6088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fefb3f3a85331c7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "958e2cd969b52370",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "999be1b39fb800d1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "63f90dd038a0c1a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90dbc6191cfda0d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Диаграммы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c4dd308aed04f667",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cdba108b39705f32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Диаграммы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b902e7a593cb5073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bfe9ebdd0a2040f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 439
+  },
+  "right": {
+    "id": "0e271974c0698df2",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a372ba733d5c8941",
+  "lastOpenFiles": [
+    "Диаграммы.md",
+    "placehold.it/150x100 1.md",
+    "placehold.it/150x100.md",
+    "Модуль Гуркова/Встречи с заказчиком/Pasted image 20220325173009.png",
+    "Без названия 1.md",
+    "Без названия.md"
+  ]
+}
