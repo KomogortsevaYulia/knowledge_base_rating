@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a372ba733d5c8941",
+        "id": "60c5a7d7fb95629c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Диаграммы.md",
-            "mode": "source",
+            "file": "Система «Рейтинг студентов»/Модуль 4 Проверка заявки/Опрос ответственного Общественная деятельность.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -58,28 +58,19 @@
             }
           }
         ]
-      },
+      }
+    ],
+    "direction": "horizontal",
+    "width": 538
+  },
+  "right": {
+    "id": "0e271974c0698df2",
+    "type": "split",
+    "children": [
       {
-        "id": "63f90dd038a0c1a4",
+        "id": "8bd107556b82bd46",
         "type": "tabs",
         "children": [
-          {
-            "id": "90dbc6191cfda0d3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Диаграммы.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
           {
             "id": "c4dd308aed04f667",
             "type": "leaf",
@@ -92,52 +83,52 @@
             }
           },
           {
+            "id": "90dbc6191cfda0d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Система «Рейтинг студентов»/Модуль 4 Проверка заявки/Опрос ответственного Общественная деятельность.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
             "id": "cdba108b39705f32",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Диаграммы.md",
+                "file": "Система «Рейтинг студентов»/Модуль 4 Проверка заявки/Опрос ответственного Общественная деятельность.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "b902e7a593cb5073",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0bfe9ebdd0a2040f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 439
+    "width": 300
   },
-  "right": {
-    "id": "0e271974c0698df2",
-    "type": "split",
-    "children": [],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
-  },
-  "active": "a372ba733d5c8941",
+  "active": "60c5a7d7fb95629c",
   "lastOpenFiles": [
-    "Диаграммы.md",
-    "placehold.it/150x100 1.md",
-    "placehold.it/150x100.md",
-    "Модуль Гуркова/Встречи с заказчиком/Pasted image 20220325173009.png",
-    "Без названия 1.md",
-    "Без названия.md"
+    "Система «Рейтинг студентов»/Модуль 4 Проверка заявки/Опрос ответственного Общественная деятельность.md",
+    "Система «Рейтинг студентов»/Модуль 4 Проверка заявки/Опрос ответственного Спортивная деятельность.md",
+    "Система «Рейтинг студентов»/Модуль 3 Формирование заявки/Модель «Как будет».md",
+    "Система «Рейтинг студентов»/Модуль 4 Проверка заявки/Составление анкет.md",
+    "Работа с командой/Описание выполненной работы.md",
+    "Сценарии вариантов использования.md",
+    "Картинки/Pasted image 20220325205259.png",
+    "Картинки/Pasted image 20220325205338.png",
+    "Картинки/Pasted image 20220325205327.png",
+    "Работа с командой/Полезное.md"
   ]
 }
