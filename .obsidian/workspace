@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "55146b70b10f7367",
+    "type": "split",
+    "children": [
+      {
+        "id": "64c2e034e7877662",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c5546146541a145",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8daef2d9611ebeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65c1d75657870aa1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1016dbfeeebd9bf5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "48e05a93b48558f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6879b683f4caac9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6638888313980c0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "64c2e034e7877662",
+  "lastOpenFiles": [
+    "База знаний/Система «Рейтинг студентов»/Модуль 4 Проверка заявки/Опрос ответственного Общественная деятельность.md",
+    "База знаний/Система «Рейтинг студентов»/Словари/Словарь терминов.md",
+    "База знаний/Система «Рейтинг студентов»/Словари/Словарь глаголов.md",
+    "База знаний/Система «Рейтинг студентов»/Словари/ООП словарь.md"
+  ]
+}
