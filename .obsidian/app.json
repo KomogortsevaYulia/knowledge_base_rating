@@ -1,1 +1,5 @@
-{}
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "alphabetical"
+}
