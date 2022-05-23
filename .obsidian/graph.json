@@ -4,19 +4,90 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": true,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"База знаний/Система «Рейтинг студентов»/Модуль 1 Регистрация коллективов (Вовлеченность)\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"База знаний/Система «Рейтинг студентов»/Модуль 2 Проведение мероприятия\"",
+      "color": {
+        "a": 1,
+        "rgb": 13032983
+      }
+    },
+    {
+      "query": "path:\"База знаний/Система «Рейтинг студентов»/Модуль 3 Формирование заявки\"",
+      "color": {
+        "a": 1,
+        "rgb": 6607729
+      }
+    },
+    {
+      "query": "path:\"База знаний/Система «Рейтинг студентов»/Модуль 4 Проверка заявки\"",
+      "color": {
+        "a": 1,
+        "rgb": 1973220
+      }
+    },
+    {
+      "query": "path:\"База знаний/Система «Рейтинг студентов»/Модуль 5 Начисление рейтинговой стипендии\"",
+      "color": {
+        "a": 1,
+        "rgb": 7865069
+      }
+    },
+    {
+      "query": "path:\"База знаний/Другое\"",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"База знаний/Общение с заказчиками\"",
+      "color": {
+        "a": 1,
+        "rgb": 964098
+      }
+    },
+    {
+      "query": "path:\"База знаний/Система «Рейтинг студентов»\"",
+      "color": {
+        "a": 1,
+        "rgb": 14782985
+      }
+    },
+    {
+      "query": "path:\"База знаний/Работа с командой/Описание выполненной работы\"",
+      "color": {
+        "a": 1,
+        "rgb": 14945292
+      }
+    },
+    {
+      "query": "path:\"База знаний/Работа с командой\"",
+      "color": {
+        "a": 1,
+        "rgb": 6607729
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -1.7,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "lineSizeMultiplier": 2.99683333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.553571428571429,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.38230109687699815,
+  "scale": 0.7514342322277704,
   "close": true
 }
