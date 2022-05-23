@@ -74,20 +74,20 @@
       "query": "path:\"База знаний/Работа с командой\"",
       "color": {
         "a": 1,
-        "rgb": 6607729
+        "rgb": 14782985
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.7,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 2.99683333333333,
-  "collapse-forces": false,
-  "centerStrength": 0.553571428571429,
+  "collapse-forces": true,
+  "centerStrength": 0.517857142857143,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7514342322277704,
+  "scale": 0.3823010968770062,
   "close": true
 }
