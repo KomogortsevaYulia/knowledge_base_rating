@@ -3,95 +3,98 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": false,
-  "collapse-color-groups": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"База знаний/Система «Рейтинг студентов»/Модуль 1 Регистрация коллективов (Вовлеченность)\"",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 2962125
       }
     },
     {
       "query": "path:\"База знаний/Система «Рейтинг студентов»/Модуль 2 Проведение мероприятия\"",
       "color": {
         "a": 1,
-        "rgb": 13032983
+        "rgb": 15058955
       }
     },
     {
       "query": "path:\"База знаний/Система «Рейтинг студентов»/Модуль 3 Формирование заявки\"",
       "color": {
         "a": 1,
-        "rgb": 6607729
+        "rgb": 2936843
       }
     },
     {
       "query": "path:\"База знаний/Система «Рейтинг студентов»/Модуль 4 Проверка заявки\"",
       "color": {
         "a": 1,
-        "rgb": 1973220
+        "rgb": 14555059
       }
     },
     {
       "query": "path:\"База знаний/Система «Рейтинг студентов»/Модуль 5 Начисление рейтинговой стипендии\"",
       "color": {
         "a": 1,
-        "rgb": 7865069
+        "rgb": 1039255
       }
     },
     {
       "query": "path:\"База знаний/Другое\"",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 2718371
       }
     },
     {
-      "query": "path:\"База знаний/Общение с заказчиками\"",
+      "query": "path:\"База знаний/Работа с командой/Описание выполненной работы/2021-2022\"",
       "color": {
         "a": 1,
-        "rgb": 964098
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:\"База знаний/Работа с командой/Описание выполненной работы/2022-2023\"",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:\"База знаний/Система «Рейтинг студентов»/Словари\"",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
       }
     },
     {
       "query": "path:\"База знаний/Система «Рейтинг студентов»\"",
       "color": {
         "a": 1,
-        "rgb": 14782985
+        "rgb": 14290960
       }
     },
     {
-      "query": "path:\"База знаний/Работа с командой/Описание выполненной работы\"",
+      "query": "path:\"База знаний/Общение с заказчиками\"",
       "color": {
         "a": 1,
-        "rgb": 14945292
-      }
-    },
-    {
-      "query": "path:\"База знаний/Работа с командой\"",
-      "color": {
-        "a": 1,
-        "rgb": 14782985
+        "rgb": 1362090
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.7,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 2.99683333333333,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.075,
+  "lineSizeMultiplier": 2.375,
   "collapse-forces": true,
-  "centerStrength": 0.517857142857143,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-<<<<<<< Updated upstream
-  "scale": 0.38230109687700753,
-=======
-  "scale": 0.38230109687700625,
->>>>>>> Stashed changes
+  "centerStrength": 0.5,
+  "repelStrength": 10.7142857142857,
+  "linkStrength": 0.857142857142857,
+  "linkDistance": 270,
+  "scale": 0.3628873693012119,
   "close": true
 }
