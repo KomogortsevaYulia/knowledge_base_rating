@@ -88,6 +88,10 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< Updated upstream
   "scale": 0.38230109687700753,
+=======
+  "scale": 0.38230109687700625,
+>>>>>>> Stashed changes
   "close": true
 }
