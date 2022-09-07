@@ -2,7 +2,7 @@
   "baseFontSize": 16,
   "theme": "system",
   "translucency": false,
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "",
   "textFontFamily": "Times New Roman"
 }
