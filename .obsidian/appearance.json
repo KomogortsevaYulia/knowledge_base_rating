@@ -4,5 +4,6 @@
   "translucency": false,
   "cssTheme": "Obsidian Nord",
   "interfaceFontFamily": "",
-  "textFontFamily": "Times New Roman"
+  "textFontFamily": "Times New Roman",
+  "accentColor": ""
 }
